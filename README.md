@@ -19,16 +19,16 @@ ConstraintLayout library in <b>build.gradle</b> file with latest version:
 
 Add ConstraintLayout in <b>activity_main.xml </b> : 
 <pre>
-
 <androidx.constraintlayout.widget.ConstraintLayout
-xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center">
     ...
-    </androidx.constraintlayout.widget.ConstraintLayout></pre>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</pre>
     
 
 ScreenShots of output :
