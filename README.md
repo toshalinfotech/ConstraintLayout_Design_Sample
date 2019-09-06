@@ -32,5 +32,5 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     
 
 ScreenShots of output :
-![upload_one](app/src/main/res/drawable/upload_one.png)
+![upload_one](app/src/main/res/drawable/upload_one.jpg)
 ![upload_two](app/src/main/res/drawable/upload_two.png)
